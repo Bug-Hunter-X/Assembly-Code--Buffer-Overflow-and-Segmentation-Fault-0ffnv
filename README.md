@@ -1,0 +1,1 @@
+This repository contains an example of two common errors in assembly programming: buffer overflows and segmentation faults.  The `bug.asm` file showcases the erroneous code, while `bugSolution.asm` presents a corrected version with improved error handling. The example highlights the importance of careful memory management and input validation in assembly language programming.
